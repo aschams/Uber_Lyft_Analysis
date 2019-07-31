@@ -15,6 +15,8 @@ We perform logistic regression in an attempt to predict when a surge multiplier 
 
 We perform time series analysis on the average price of rides by hour of the day.
 
+Additional functions used can be found in the extra_functions.py file
+
 ## Conclusions
 We found that the best predictors for price are log(distance) and the starting neighborhood of the driver.
 
