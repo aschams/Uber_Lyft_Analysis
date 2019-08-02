@@ -7,7 +7,7 @@ The purpose of this analysis is to explore the best conditions on driving for Ub
 Data was obtained from [Kaggle](https://www.kaggle.com/ravi72munde/uber-lyft-cab-prices). Both the 'cab_rides.csv' and 'weather.csv' are used. Cleaning of the data was performed using the code in the file cleaning_data.ipynb. 
 
 ## Analysis
-Analysis and some discussion can be found in the analysis.ipynb file. It includes a walkthrough of the most important models we built, alongside examination of statistical assumptions for the analysis performed. 
+Analysis and some discussion can be found in the analysis.ipynb file. It includes a walkthrough of the most important models we built, alongside examination of statistical assumptions for the analysis performed. All models we built can be found in the complete_analysis.ipynb file.
 
 We performed LASSO to find a linear model to predict prices from a subset of features selected through random forest. 
 
